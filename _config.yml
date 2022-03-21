@@ -1,0 +1,7 @@
+theme: jekyll-theme-architect
+title: JaSST 21 Tokyo よくあるご質問（FAQ）
+social-network-links:
+  email: "tokyo-query@jasst.jp"
+  twitter: jassttokyo
+exclude:
+  - LICENSE
